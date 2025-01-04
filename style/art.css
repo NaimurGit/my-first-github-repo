@@ -1,7 +1,15 @@
 div{
     color: bisque;
     background-color: brown;
+    padding: 1%;
+    margin-bottom: 1%;
 }
-p{
-    width: 20px;
+ol{
+    width: 20%;
+}
+li{
+    margin: 4%;
+}
+br{
+    margin: 4%;
 }
